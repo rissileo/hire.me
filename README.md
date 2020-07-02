@@ -1,3 +1,17 @@
+# Resolução
+
+O Projeto foi desenvolvido em .NET Core 3.0 com banco SQL Server.
+Foi utilizada uma documentação dinâmica, o Swagger. Neste recurso é possível ver os métodos criados, as entradas e saídas no sistema.
+Após criar as tabelas na base e rodar o projeto, basta rodar no endereço instalado + /swagger.
+Exemplo: http://localhost:3000/swagger
+
+O sistema foi testado devidamente e está rodando corretamente, conforme o readme de requisição.
+
+Para o nome do alias que deverá ser criado, utilizei um algoritmo geração de números aleatórios, verificando já sua existência na base, e de criptografia simples.
+
+Foi criado um mecanismo de geração de log para que seja informado o comportamento da API. Este log tem a retenção de 5 dias, e é gerada na pasta "log".
+
+#------------------------------------------
 # Hire.me
 Um pequeno projeto para testar suas habilidades como programador.
 
