@@ -11,7 +11,8 @@ Para o nome do alias que deverá ser criado, utilizei um algoritmo geração de 
 
 Foi criado um mecanismo de geração de log para que seja informado o comportamento da API. Este log tem a retenção de 5 dias, e é gerada na pasta "log".
 
-#------------------------------------------
+#
+#
 # Hire.me
 Um pequeno projeto para testar suas habilidades como programador.
 
