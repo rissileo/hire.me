@@ -1,0 +1,9 @@
+[01/07/2020 22:48:08] - REQUEST PARAMETES: http://www.globo.com | MARIA
+[01/07/2020 22:48:22] - RESULT: vale_shorturl.Model.ResponseShortUrlViewModel_Error
+[01/07/2020 22:54:12] - RESULT: System.Collections.Generic.List`1[vale_shorturl.Model.ResponseShortUrlViewModel_TopTen]
+[01/07/2020 22:54:15] - REQUEST PARAMETES: http://www.vale.com.br | 
+[01/07/2020 22:54:15] - RESULT: vale_shorturl.Model.ResponseShortUrlViewModel_Error
+[01/07/2020 22:58:12] - REQUEST PARAMETES: http://www.moneytimes.com.br | Giovana
+[01/07/2020 22:58:12] - RESULT: Giovana | http://shrt.vale/GjkkFjlFP | 581 ms
+[01/07/2020 22:58:54] - REQUEST PARAMETES: http://www.moneytimes.com.br | Giovana
+[01/07/2020 22:58:54] - RESULT: 001 | CUSTOM ALIAS ALREADY EXISTS

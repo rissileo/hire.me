@@ -1,0 +1,12 @@
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\obj\Debug\netcoreapp2.2\vale_shorturl.csprojAssemblyReference.cache
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\obj\Debug\netcoreapp2.2\vale_shorturl.csproj.CoreCompileInputs.cache
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\obj\Debug\netcoreapp2.2\vale_shorturl.AssemblyInfoInputs.cache
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\obj\Debug\netcoreapp2.2\vale_shorturl.AssemblyInfo.cs
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\appsettings.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\vale_shorturl.deps.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\vale_shorturl.runtimeconfig.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\vale_shorturl.runtimeconfig.dev.json
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\bin\Debug\netcoreapp2.2\vale_shorturl.dll
+C:\PROJECTS\vale_shorturl\vale_shorturl\vale_shorturl\obj\Debug\netcoreapp2.2\vale_shorturl.genruntimeconfig.cache

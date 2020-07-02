@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\RISSI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\RISSI\\.nuget\\packages"
+    ]
+  }
+}
