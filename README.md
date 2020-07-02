@@ -1,6 +1,6 @@
 # Resolução
 
-O Projeto foi desenvolvido em .NET Core 3.0 com banco SQL Server.
+Para o Projeto foi desenvolvida uma Web API em .NET Core 3.0 com banco SQL Server.
 Foi utilizada uma documentação dinâmica, o Swagger. Neste recurso é possível ver os métodos criados, as entradas e saídas no sistema.
 Após criar as tabelas na base e rodar o projeto, basta rodar no endereço instalado + /swagger.
 Exemplo: http://localhost:3000/swagger
