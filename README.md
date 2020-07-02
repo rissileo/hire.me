@@ -5,6 +5,9 @@ Foi utilizada uma documentação dinâmica, o Swagger. Neste recurso é possíve
 Após criar as tabelas na base e rodar o projeto, basta rodar no endereço instalado + /swagger.
 Exemplo: http://localhost:3000/swagger
 
+Para configuração da String de Conexão, utilize o arquivo appsettings.json.
+Altere no caminho: "ConnectionStrings" > "DefaultConnection"
+
 O sistema foi testado devidamente e está rodando corretamente, conforme o readme de requisição.
 
 Para o nome do alias que deverá ser criado, utilizei um algoritmo geração de números aleatórios, verificando já sua existência na base, e de criptografia simples.
