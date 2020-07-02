@@ -10,7 +10,7 @@ Altere no caminho: "ConnectionStrings" > "DefaultConnection"
 
 O sistema foi testado devidamente e está rodando corretamente, conforme o readme de requisição.
 
-Para o nome do alias que deverá ser criado, utilizei um algoritmo geração de números aleatórios, verificando já sua existência na base, e de criptografia simples.
+Para o nome do alias que deverá ser criado, utilizei um algoritmo de geração de números aleatórios, verificando sua existência na base previamente, e de criptografia simples.
 
 Foi criado um mecanismo de geração de log para que seja informado o comportamento da API. Este log tem a retenção de 5 dias, e é gerada na pasta "log".
 
